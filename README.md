@@ -10,7 +10,7 @@ Abaixo está a representação visual dos KPIs:
 
 <img width="1339" height="799" alt="image" src="https://github.com/user-attachments/assets/6f233a1a-4dcf-4091-bc4e-092b1bccfbb7" />
 
-## Acesso aos entregáveis
+## 📂 Acesso aos entregáveis
 
 ### 1. Diagrama de Entidade-Relacionamento
 
