@@ -26,4 +26,8 @@ A visualização do modelo de dados/dashboard se encontra neste `README.md`, mas
 
 ### 4. Relatório
 
-Para acessar a conclusão e os insights, tal como a documentação da realização do projeto, basta acessar ao pdf sinalizado como [RELATÓRIO].
+Para acessar a conclusão e os insights, tal como a documentação da realização do projeto, basta acessar ao pdf sinalizado como **[RELATÓRIO]**.
+
+### Extra
+
+Além desses entregáveis, disponibilizo também as minhas anotações no Notion acerca dos meus estudos sobre o fluxo da despesa pública: [[ANOTAÇÕES] Fluxo da Despesa Pública](https://www.notion.so/ANOTA-ES-Fluxo-da-Despesa-P-blica-2fc250c8671e80ee8b82f2009eb83d36)
