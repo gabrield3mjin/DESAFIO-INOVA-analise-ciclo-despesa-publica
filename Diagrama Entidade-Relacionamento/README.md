@@ -5,4 +5,4 @@ Escolhi o diagrama de entidade-relacionamento pois encontrei neste modelo uma fo
 ## Ferramentas/Plataformas
 
 Como suporte ao desenvolvimento desse diagrama, foi utilizada a ERD Tool do pgAdmin 4, que realiza a engenharia reversa do schema selecionado.
-A plataforma utilizada para a modelagem foi o Lucidchart[https://www.lucidchart.com/pages/pt], com o uso de um modelo específico de diagrama entidade-relacionamento.
+A plataforma utilizada para a modelagem foi o [Lucidchart](https://www.lucidchart.com/pages/pt), com o uso de um modelo específico de diagrama entidade-relacionamento.
